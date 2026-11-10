@@ -1,0 +1,133 @@
+window.JELATO_PROJECTS = [
+  {
+    id: "a02",
+    assignment: "A02 · BRAND AUDIT",
+    category: "Foundation",
+    title: "A clear position for a playful local brand",
+    summary: "The audit defined Jelato 88’s audience, competitive difference, channel presence and customer journey — then found the opportunity that shaped the rest of the semester.",
+    insight: "Lean into a character-led identity without sacrificing clarity. Every later asset should connect to an audience need and a funnel stage.",
+    reflection: "The audit changed my process from designing isolated posts to building a system. It also made proofreading a formal final step after the rubric flagged a misspelling.",
+    feedback: "“I love the visual elements of this so much.” — Instructor feedback",
+    accent: "lemon",
+    layout: "photo",
+    showcase: [5],
+    cover: "assets/a02/page-4.jpg",
+    pages: [
+      ["assets/a02/page-1.jpg", "Brand audit", "Jelato 88 brand audit cover"],
+      ["assets/a02/page-2.jpg", "Brand fundamentals", "Jelato 88 brand fundamentals"],
+      ["assets/a02/page-3.jpg", "Audience + presence", "Jelato 88 audience and channel overview"],
+      ["assets/a02/page-4.jpg", "Content strategy", "Jelato 88 content strategy and funnel"],
+      ["assets/a02/page-5.jpg", "Long-term value", "Jelato 88 long-term content value"],
+      ["assets/jelato-gelato-photo.webp", "In the shop", "Two Jelato 88 yellow cups of gelato, one pale lemon and one green, each with a waffle crisp, on a sunny yellow table"]
+    ]
+  },
+  {
+    id: "a03",
+    assignment: "A03 · APPLESAUCE PLAN",
+    category: "Content strategy",
+    title: "One hero video, repurposed across six months",
+    summary: "One monthly hero video becomes a coordinated stream of TikToks, Reels, carousels, blog posts, emails, YouTube content and Stories.",
+    insight: "Build once, adapt with purpose. Each platform gets a distinct role, frequency, success metric and place in the funnel.",
+    reflection: "The instructor feedback confirmed that the strategy held together. My next refinement would be to reduce a few production targets to match the capacity of a small shop.",
+    feedback: "“WOW! Incredibly thorough!” — Instructor feedback",
+    accent: "grape",
+    layout: "portrait",
+    showcase: [0, 3],
+    cover: "assets/a03/page-1.jpg",
+    pages: [
+      ["assets/a03/page-1.webp", "Business strategy", "A03 business strategy cover"],
+      ["assets/a03/page-3.jpg", "Brand + audience", "Brand and audience overview"],
+      ["assets/a03/page-4.jpg", "Funnel alignment", "Funnel and Maslow hierarchy alignment"],
+      ["assets/a03/page-5.webp", "Platform strategy", "Platform strategy overview"],
+      ["assets/a03/page-8.jpg", "Measurement", "Performance metrics"],
+      ["assets/a03/page-9.jpg", "Publishing phases", "Six-month publishing phases"],
+      ["assets/a03/page-11.jpg", "Monthly calendar", "Detailed monthly publishing calendar"],
+      ["assets/a03/page-12.jpg", "Publishing calendar", "Content publishing calendar"],
+      ["assets/a03/page-13.jpg", "Gantt chart", "Content strategy Gantt chart"]
+    ]
+  },
+  {
+    id: "a04",
+    assignment: "A04 · FLAVOR PASSPORT",
+    category: "Editorial design",
+    title: "Discovery turned into a flavor adventure",
+    summary: "The Flavor Passport helps first-time customers compare unfamiliar flavors by origin, taste and adventure level, then choose a confident first scoop.",
+    insight: "Useful information can still feel playful. The passport device turns guidance into a journey and creates a format that can move across editorial and social channels.",
+    reflection: "This became the presentation benchmark for the portfolio. I would next test whether the adventure scale and first-scoop pairings make customers more confident trying an unfamiliar flavor.",
+    feedback: "“Absolutely gorgeous!” — Instructor feedback",
+    accent: "pumpkin",
+    layout: "portrait",
+    showcase: [0, 4],
+    cover: "assets/a04/page-1.jpg",
+    pages: [
+      ["assets/a04/page-1.webp", "Flavor Passport", "Flavor Passport cover"],
+      ["assets/a04/page-3-corrected.jpg", "Article introduction", "Corrected Flavor Passport article introduction"],
+      ["assets/a04/page-4.jpg", "Adventure scale", "Flavor adventure scale"],
+      ["assets/a04/page-7.jpg", "Bold flavors + pairings", "Bold flavors and first cup pairings"],
+      ["assets/a04/page-8.webp", "Flavor path", "Which scoop are you flavor path"],
+      ["assets/a04/page-11.jpg", "Promotion plan", "Four-week promotion plan"],
+      ["assets/a04/page-12.jpg", "In the wild", "Flavor Passport across channels"],
+      ["assets/a04/page-13.jpg", "Tracking + repurposing", "Campaign tracking and content repurposing"]
+    ]
+  },
+  {
+    id: "a05c",
+    assignment: "A05C · DATA GRAPHIC",
+    category: "Information design",
+    title: "A fast comparison for customers close to choosing",
+    summary: "The calorie graphic orders official small-cup menu values from highest to lowest for customers already at the intent stage.",
+    insight: "Let the information lead. One scale makes the ranking quick to scan while the mascot, yellow accent and truck illustration retain the brand voice.",
+    reflection: "The next step would be testing the graphic at both phone size and in-store poster distance, then refining the labeling around the most compared flavors.",
+    feedback: "Submitted in Canvas; no written instructor or classmate feedback was posted when this portfolio was assembled.",
+    accent: "ink",
+    layout: "chart",
+    showcase: [1],
+    cover: "assets/a05c/page-1.jpg",
+    pages: [
+      ["assets/a05c/page-1.jpg", "Calorie comparison", "Calories by gelato flavor data graphic"],
+      ["assets/a05c/page-2.webp", "Strategy + placement", "Data graphic strategy and customer journey placement"]
+    ]
+  },
+  {
+    id: "a06b",
+    assignment: "A06B · SCOOPS & SPOOKS",
+    category: "Social campaign",
+    title: "One seasonal idea adapted to four platforms",
+    summary: "Four gelato flavors became Halloween monster personalities. The campaign changes its level of detail and interaction across Facebook, X, Instagram, Stories and YouTube.",
+    insight: "Platform adaptation means more than resizing. Each channel gets the context and interaction it supports while the central character system stays unmistakably consistent.",
+    reflection: "This campaign carried the playful direction praised in A02 into a complete launch. I would measure redemptions, saves, Story responses and flavor votes to decide which characters return.",
+    feedback: "Submitted in Canvas; no written instructor or classmate feedback was posted when this portfolio was assembled.",
+    accent: "lilac",
+    layout: "wide",
+    showcase: [9, 2],
+    cover: "assets/jelato-hero.jpg",
+    pages: [
+      ["assets/a06b/page-2.jpg", "Campaign plan", "Scoops and Spooks campaign plan"],
+      ["assets/a06b/page-3.jpg", "Feed graphics", "Facebook and X feed graphics"],
+      ["assets/a06b/page-4.webp", "Instagram carousel", "Instagram character carousel"],
+      ["assets/a06b/page-5.jpg", "Stories + YouTube", "Story and YouTube graphics"],
+      ["assets/a06b/page-6.jpg", "Facebook", "Facebook campaign mockup"],
+      ["assets/a06b/page-7.jpg", "X", "X campaign mockup"],
+      ["assets/a06b/page-8.jpg", "Instagram", "Instagram campaign mockup"],
+      ["assets/a06b/page-9.jpg", "Stories", "Instagram Stories campaign mockup"],
+      ["assets/a06b/page-10.jpg", "YouTube", "YouTube campaign mockup"],
+      ["assets/a06b/page-11.webp", "Full system", "Scoops and Spooks campaign system"]
+    ]
+  },
+  {
+    id: "ex07",
+    assignment: "EX07 · MEME DETECTIVE",
+    category: "Cultural research",
+    title: "Repetition with variation builds recognition",
+    summary: "The research traces “I Scream, You Scream” from a street cry through advertising, music and internet image macros.",
+    insight: "A phrase survives when people recognize the pattern and can remake it. Jelato 88 can use a reusable flavor-reaction format that changes with each launch.",
+    reflection: "The exercise connected cultural research to brand awareness: participation grows when a system is recognizable enough to imitate but flexible enough to personalize.",
+    feedback: "Research exercise included as supporting process work.",
+    accent: "matcha",
+    layout: "reel",
+    showcase: [],
+    reel: "DTl13XTgVkS",
+    cover: "assets/research/ex07-cover.jpg",
+    pages: [["assets/research/ex07-cover.jpg", "Meme Detective", "Exercise 07 Become a Meme Detective cover"]]
+  }
+];
