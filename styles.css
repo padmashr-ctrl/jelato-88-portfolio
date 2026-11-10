@@ -331,6 +331,11 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 700; letter-spacing: -0.015
 .case-summary { margin: 22px 0 0; font-size: 1.14rem; font-weight: 600; line-height: 1.5; }
 .case-insight { margin: 24px 0 30px; padding-top: 16px; border-top: 2px solid currentColor; font-size: 1rem; line-height: 1.55; }
 .case-insight b { display: block; margin-bottom: 4px; font-size: 0.76rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; }
+.case-reflection,
+.case-feedback { margin: -12px 0 26px; font-size: 0.95rem; line-height: 1.55; }
+.case-reflection b,
+.case-feedback b { display: block; margin-bottom: 4px; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; }
+.case-feedback { padding: 14px 16px; border: 2px solid currentColor; border-radius: 16px; }
 .case-open { display: inline-flex; align-items: center; min-height: 50px; padding: 0 24px; border-radius: 999px; background: var(--chip); color: var(--chip-fg); font-size: 0.95rem; font-weight: 800; text-decoration: none; }
 .case-open::after { content: ""; position: absolute; inset: 0; z-index: 8; }
 .case-open:focus-visible { outline: 3px solid currentColor; }
