@@ -55,6 +55,7 @@ window.JELATO_PROJECTS = [
     insight: "Useful information can still feel playful. The passport device turns guidance into a journey and creates a format that can move across editorial and social channels.",
     reflection: "This became the presentation benchmark for the portfolio. I would next test whether the adventure scale and first-scoop pairings make customers more confident trying an unfamiliar flavor.",
     feedback: "“Absolutely gorgeous!” — Instructor feedback",
+    article: "https://medium.com/@padmashr/the-jelato88-flavor-passport-pandan-durian-dahongpao-d5f1847a647c",
     accent: "pumpkin",
     layout: "portrait",
     showcase: [0, 4],

@@ -38,7 +38,10 @@
           <p class="case-insight"><b>The insight</b>${escapeHtml(project.insight)}</p>
           <p class="case-reflection"><b>My reflection</b>${escapeHtml(project.reflection)}</p>
           <p class="case-feedback"><b>Feedback</b>${escapeHtml(project.feedback)}</p>
-          <a class="case-open" href="${pdfs[project.id]}" aria-label="Open ${escapeHtml(project.assignment)} PDF">Open PDF ↗</a>
+          <div class="case-actions">
+            <a class="case-open" href="${pdfs[project.id]}" aria-label="Open ${escapeHtml(project.assignment)} PDF">Open PDF ↗</a>
+            ${project.article ? `<a class="case-article" href="${escapeHtml(project.article)}" target="_blank" rel="noopener noreferrer">Read the article ↗</a>` : ""}
+          </div>
         </div>
         <div class="stage stage-${project.layout} stage-count-${project.showcase.length}">
           ${project.showcase.map((pageIndex, position) => renderPage(project, pageIndex, position)).join("")}
